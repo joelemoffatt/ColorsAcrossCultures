@@ -1,0 +1,679 @@
+{
+  "RED": {
+    "Western - American": [
+      "Hot",
+      "Love",
+      "Passion",
+      "power",
+      "eroticism",
+      "radical (political)",
+      "excitement",
+      "boldness",
+      "The Devil",
+      "danger",
+      "desire",
+      "irritation  / anger",
+      "spiceness"
+    ],
+    "Western European": [
+      "Danger"
+    ],
+    "South American": [
+      "success/ triumph"
+    ],
+    "Russia / Eastern Europe": [
+      "Revolution",
+      "beauty",
+      "Luck"
+    ],
+    "India (Hindu)": [
+      "heat",
+      "passion",
+      "sensuality",
+      "energy",
+      "The Bride"
+    ],
+    "North Africa": [
+      "good luck"
+    ],
+    "South Africa": [
+      "mourning"
+    ],
+    "Muslim": [
+      "fire"
+    ],
+    "Asia": [
+      "marriage",
+      "Happiness",
+      "prosperity"
+    ],
+    "Chinese": [
+      "celebration",
+      "Wedding",
+      "fertility",
+      "happiness",
+      "success / fortune",
+      "Good luck,"
+    ],
+    "Japanese": [
+      "love",
+      "passion",
+      "excitement",
+      "strength",
+      "danger",
+      "profound urges",
+      "aggression"
+    ],
+    "Native Americans": [
+      "warmth",
+      "passion",
+      "heart",
+      "emotions",
+      "success"
+    ],
+    "antiquity?": [],
+    "": [
+      "common four-colour Islamic system"
+    ]
+  },
+  "Orange": {
+    "Western - American": [
+      "friendly",
+      "reliable",
+      "warmth"
+    ],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "auspicious",
+      "desire",
+      "energising",
+      "holy",
+      "fertility"
+    ],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [],
+    "Chinese": [
+      "learning",
+      "kinship"
+    ],
+    "Japanese": [
+      "enthusiasm",
+      "balance",
+      "warmth",
+      "energy",
+      "flamboyance"
+    ],
+    "Native Americans": [
+      "learning",
+      "healing"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "yellow": {
+    "Western - American": [
+      "fun",
+      "energetic",
+      "jubilant",
+      "peace",
+      "overpowering",
+      "Cowardly",
+      "Quarantine",
+      "jaundice"
+    ],
+    "Western European": [],
+    "South American": [
+      "Mourning"
+    ],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "divinity",
+      "laughter",
+      "energising",
+      "joy",
+      "attracts love",
+      "Will & power",
+      "repels evil",
+      "sensuality"
+    ],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [
+      "Strength",
+      "Mourning"
+    ],
+    "Asia": [
+      "sacred",
+      "against evil",
+      "imperial"
+    ],
+    "Chinese": [
+      "Royalty",
+      "Nourishing",
+      "respect"
+    ],
+    "Japanese": [
+      "joy",
+      "deceit",
+      "Courage",
+      "cowardice",
+      "hazard",
+      "illness",
+      "idealism"
+    ],
+    "Native Americans": [
+      "illumination",
+      "love",
+      "overcoming challenges",
+      "Trouble",
+      "Inspiration"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Green": {
+    "Western - American": [
+      "earthy",
+      "grow",
+      "natural",
+      "environmental",
+      "trust",
+      "jealousy",
+      "calm",
+      "Luck",
+      "money"
+    ],
+    "Western European": [],
+    "South American": [
+      "Death"
+    ],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "Fertility",
+      "vitality",
+      "life",
+      "Islam",
+      "love",
+      "compassion",
+      "soothes",
+      "universal oneness",
+      "Happiness",
+      "tradition"
+    ],
+    "North Africa": [
+      "Islam"
+    ],
+    "South Africa": [],
+    "Muslim": [
+      "Islam",
+      "Heaven",
+      "Luck",
+      "paradise",
+      "God"
+    ],
+    "Asia": [
+      "harmony",
+      "peace",
+      "eternity",
+      "posterity",
+      "family"
+    ],
+    "Chinese": [
+      "growth",
+      "life",
+      "infidelity",
+      "exorcism",
+      "Sunrise"
+    ],
+    "Japanese": [
+      "nature",
+      "the environment",
+      "jealousy / envy",
+      "eternal life",
+      "misfortune [CHECK]",
+      "good luck",
+      "youth",
+      "vigour"
+    ],
+    "Native Americans": [
+      "living willfully"
+    ],
+    "antiquity?": [],
+    "": [
+      "wapedia"
+    ]
+  },
+  "Blue": {
+    "Western - American": [
+      "Liberal",
+      "cold",
+      "smart",
+      "progress",
+      "music",
+      "trust",
+      "freedom",
+      "royal",
+      "medicine",
+      "Loyalty",
+      "depression",
+      "peaceful",
+      "objective / rational",
+      "corporate",
+      "passivity",
+      "serious",
+      "quiet"
+    ],
+    "Western European": [],
+    "South American": [
+      "defeat/ trouble"
+    ],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "creativity",
+      "communication",
+      "calm",
+      "gods",
+      "sacred"
+    ],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [
+      "Heaven",
+      "spirituality",
+      "immortality",
+      "mourning",
+      "merciful"
+    ],
+    "Asia": [
+      "wealth",
+      "self-cultivation"
+    ],
+    "Chinese": [],
+    "Japanese": [
+      "cold",
+      "wealth",
+      "loyalty",
+      "depression",
+      "peace",
+      "technology",
+      "femininity",
+      "life",
+      "purity",
+      "stability"
+    ],
+    "Native Americans": [
+      "North",
+      "cold",
+      "intuition",
+      "defeat",
+      "trouble"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Purple": {
+    "Western - American": [
+      "royal",
+      "decadent",
+      "vanity",
+      "romantic",
+      "elegant",
+      "sensual",
+      "eclectic",
+      "Artificial",
+      "sophistication",
+      "sexiness",
+      "power",
+      "virtue",
+      "modesty",
+      "mystery",
+      "extravagant",
+      "ambivalence"
+    ],
+    "Western European": [],
+    "South American": [
+      "Mourning"
+    ],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "understanding",
+      "Intuition",
+      "Air"
+    ],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [
+      "expensive",
+      "mourning"
+    ],
+    "Chinese": [],
+    "Japanese": [
+      "royalty",
+      "cruelty",
+      "arrogance",
+      "mysterious",
+      "wisdom",
+      "nobility",
+      "mourning",
+      "enlightenment",
+      "spirituality",
+      "ceremony"
+    ],
+    "Native Americans": [
+      "wisdom",
+      "gratitude",
+      "healing"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Indigo": {
+    "Western - American": [],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "seeing",
+      "knowing"
+    ],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [],
+    "Chinese": [],
+    "Japanese": [],
+    "Native Americans": [],
+    "antiquity?": [],
+    "": []
+  },
+  "Brown": {
+    "Western - American": [
+      "rustic",
+      "earthy",
+      "warm",
+      "romantic",
+      "solid",
+      "reliable",
+      "spoiled",
+      "security",
+      "laziness",
+      "uncultivated"
+    ],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [],
+    "Chinese": [],
+    "Japanese": [
+      "earth",
+      "comfort",
+      "home",
+      "endurance",
+      "simplicity",
+      "the outdoors"
+    ],
+    "Native Americans": [
+      "Good",
+      "knowing",
+      "self-discipline"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Black": {
+    "Western - American": [
+      "Authority",
+      "Power",
+      "style",
+      "eternity",
+      "submission",
+      "evil",
+      "aloof",
+      "overpowering",
+      "death",
+      "mourning"
+    ],
+    "Western European": [
+      "mourning"
+    ],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [
+      "penance",
+      "evil",
+      "inertia",
+      "negativity",
+      "darkness",
+      "anger"
+    ],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [
+      "clergy",
+      "mourning",
+      "devotion (Shi'ite women)"
+    ],
+    "Asia": [
+      "penance",
+      "evil influences",
+      "mourning",
+      "self-cultivation",
+      "knowledge",
+      "career"
+    ],
+    "Chinese": [
+      "Trust",
+      "Reliability",
+      "young boys"
+    ],
+    "Japanese": [
+      "nobility",
+      "class",
+      "style",
+      "solemnity",
+      "evil",
+      "unhappiness",
+      "mourning",
+      "depth",
+      "experience",
+      "bad luck",
+      "wealth",
+      "mystery",
+      "fear",
+      "age"
+    ],
+    "Native Americans": [
+      "problems",
+      "West",
+      "death",
+      "self-examination",
+      "reflection",
+      "harmony"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "White": {
+    "Western - American": [
+      "Truce",
+      "Summer",
+      "purity",
+      "neutral",
+      "sterility",
+      "Bride",
+      "emptiness",
+      "vagueness",
+      "luxury",
+      "tranquility",
+      "clarity",
+      "perishability"
+    ],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [
+      "Truce"
+    ],
+    "India (Hindu)": [
+      "Truce",
+      "tranquility",
+      "peace",
+      "brightness",
+      "death and rebirth"
+    ],
+    "North Africa": [],
+    "South Africa": [
+      "Truce"
+    ],
+    "Muslim": [
+      "Truce",
+      "putiry",
+      "peace",
+      "Death",
+      "prayer"
+    ],
+    "Asia": [
+      "purity",
+      "marriage",
+      "peace",
+      "children",
+      "travel",
+      "mourning"
+    ],
+    "Chinese": [
+      "Truce",
+      "death",
+      "Mourning"
+    ],
+    "Japanese": [
+      "Truce",
+      "purity",
+      "cleanliness",
+      "reverence",
+      "sacred",
+      "youth",
+      "death",
+      "Mourning (black and white worn at funerals)",
+      "humilty"
+    ],
+    "Native Americans": [
+      "warmth",
+      "peace",
+      "happiness",
+      "magnetism",
+      "sharing"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Pink": {
+    "Western - American": [
+      "Tranquillising",
+      "Cute",
+      "feminine",
+      "girl"
+    ],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [
+      "marriage"
+    ],
+    "Chinese": [],
+    "Japanese": [
+      "child-like personality",
+      "femininity",
+      "girlish",
+      "good health",
+      "life",
+      "sexuality",
+      "purity",
+      "flirtatious"
+    ],
+    "Native Americans": [
+      "creativity",
+      "working",
+      "seeing",
+      "motivation"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Grey": {
+    "Western - American": [
+      "humility",
+      "Elegance",
+      "respect",
+      "boredom",
+      "decay",
+      "pollution"
+    ],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [
+      "helpful people",
+      "travel"
+    ],
+    "Chinese": [],
+    "Japanese": [
+      "modesty",
+      "conservative",
+      "old age",
+      "reliability",
+      "intelligence",
+      "staid"
+    ],
+    "Native Americans": [
+      "honouring",
+      "friendship"
+    ],
+    "antiquity?": [],
+    "": []
+  },
+  "Gold": {
+    "Western - American": [
+      "Money",
+      "wealth"
+    ],
+    "Western European": [],
+    "South American": [],
+    "Russia / Eastern Europe": [],
+    "India (Hindu)": [],
+    "North Africa": [],
+    "South Africa": [],
+    "Muslim": [],
+    "Asia": [
+      "wealth",
+      "strength"
+    ],
+    "Chinese": [
+      "wealth",
+      "happiness"
+    ],
+    "Japanese": [
+      "royalty",
+      "religion",
+      "the heavens"
+    ],
+    "Native Americans": [],
+    "antiquity?": [],
+    "": []
+  }
+}
