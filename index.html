@@ -19,15 +19,21 @@
       .controls {
         display: flex;
         align-items: center;
-        gap: 10px; /* space between label and select */
+        gap: 10px;
+      }
+
+      .controls > * {
+        display: flex;
+        align-items: center;
       }
 
       #map-container {
         display: flex;
         justify-content: center; /* center horizontally */
-        align-items: center; /* center vertically */
+        align-items: flex-start;
         width: 100%;
         min-height: 70vh; /* give vertical space */
+        padding: 50px;
       }
 
       svg {
@@ -49,7 +55,6 @@
 
       #color-select {
         display: block;
-        margin: 0 auto 20px auto;
         padding: 8px 12px;
         font-size: 16px;
         border-radius: 6px;
@@ -105,9 +110,8 @@
   <body>
     <h1>Colors Across Cultures</h1>
     <div class="controls">
-      <label for="color-select">Select color:</label>
-      <label for="color-select">Select color:</label>
-      <select id="color-select">
+      <label id="color-select-label" for="color-select">Select color:</label>
+      <select id="color-select" aria-labelledby="color-select-label">
         <option value="Red">Red</option>
         <option value="Orange">Orange</option>
         <option value="Yellow">Yellow</option>
@@ -1916,8 +1920,13 @@
           // Hover events
           g.onmouseenter = (e) => {
             tooltip.style.display = "block";
-            tooltip.innerHTML =
-              words.length > 0 ? words.join("<br>") : "No associations";
+            // tooltip show region name(title case) count of words and word list
+            region.toUpperCase
+            tooltip.innerHTML = `<strong>${region.replace(
+              /_/g, " "
+            ).toLowerCase().split(' ').map(word => word.charAt(0).toUpperCase() + word.substring(1)).join(' ')}</strong><br/>Words associated with ${selectedColor}: ${count}<br/>${
+              count > 0 ? words.join(", ") : "No associations"
+            }`;
           };
           g.onmousemove = (e) => {
             tooltip.style.left = e.pageX + 10 + "px";
